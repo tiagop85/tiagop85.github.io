@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480654792,
+	"version": 1480664819,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,9 +23,13 @@
 		"images/spmeteor_03-sheet0.png",
 		"images/spmeteor_03-sheet1.png",
 		"images/spexplosion-sheet0.png",
-		"images/spbackgroundparalallax.png",
+		"images/spbackgroundparallax.png",
 		"images/spcaudanyan-sheet0.png",
+		"images/spdiv-sheet0.png",
+		"media/flame.m4a",
+		"media/flame.ogg",
 		"media/evil nyan cat original.ogg",
+		"media/nyan cat [original].ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
