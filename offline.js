@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480665164,
+	"version": 1480691342,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,8 +28,8 @@
 		"images/spdiv-sheet0.png",
 		"media/flame.m4a",
 		"media/flame.ogg",
-		"media/evil nyan cat original.ogg",
-		"media/nyan cat [original].ogg",
+		"media/evil_nyan_cat_original_1min30s.ogg",
+		"media/nyan_cat_[original_30s.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
