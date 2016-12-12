@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1481564605,
+	"version": 1481585309,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,8 @@
 		"images/lava_floor-sheet0.png",
 		"images/enemy_shoot_right-sheet0.png",
 		"images/enemy_shoot_left-sheet0.png",
+		"images/chao-sheet0.png",
+		"images/fase_02_end-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

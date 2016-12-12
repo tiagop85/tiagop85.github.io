@@ -1,6 +1,6 @@
 ﻿{
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Survivor",
+	"short_name": "Survivor",
 	"start_url": "index.html",
 	"display": "standalone",
 	"orientation": "any",
