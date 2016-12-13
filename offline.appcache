@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1481585309
+#1481612739
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -13,15 +13,22 @@ images/enemy_robot-sheet0.png
 images/player_shoot-sheet0.png
 images/player_shoot-sheet1.png
 images/player_shoot-sheet2.png
-images/tmmap.png
+images/tmf03world.png
 images/enemy_turret-sheet0.png
 images/flames.png
 images/spaceship-sheet0.png
 images/lava_floor-sheet0.png
 images/enemy_shoot_right-sheet0.png
 images/enemy_shoot_left-sheet0.png
-images/chao-sheet0.png
-images/fase_02_end-sheet0.png
+images/tmf01world.png
+images/boots-sheet0.png
+images/boots-sheet1.png
+images/boots-sheet2.png
+images/weapon-sheet0.png
+images/fase_01_end-sheet0.png
+images/tmf02world.png
+images/masterkey-sheet0.png
+images/masterkey-sheet1.png
 icon-16.png
 icon-32.png
 icon-114.png
