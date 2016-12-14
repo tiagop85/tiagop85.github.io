@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1481613297,
+	"version": 1481693329,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,7 @@
 		"images/enemy_turret-sheet0.png",
 		"images/flames.png",
 		"images/spaceship-sheet0.png",
+		"images/spaceship-sheet1.png",
 		"images/lava_floor-sheet0.png",
 		"images/enemy_shoot_right-sheet0.png",
 		"images/enemy_shoot_left-sheet0.png",
@@ -30,6 +31,7 @@
 		"images/tmf02world.png",
 		"images/masterkey-sheet0.png",
 		"images/masterkey-sheet1.png",
+		"images/tmstartbg.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
