@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1481693329,
+	"version": 1481739558,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,6 +32,15 @@
 		"images/masterkey-sheet0.png",
 		"images/masterkey-sheet1.png",
 		"images/tmstartbg.png",
+		"media/sfx_collision.ogg",
+		"media/sfx_discovery.ogg",
+		"media/sfx_lava.ogg",
+		"media/sfx_fall.ogg",
+		"media/00_intro_-_the_chemical_brothers_-_another_world_a.ogg",
+		"media/01_fase_1_-_the_chemical_brothers_snow_american_ul.ogg",
+		"media/02_fase_2-_the_chemical_brothers_-_-wonders_of_the.ogg",
+		"media/03_fase_3-_chemical_brothers_-_escape_velocity.ogg",
+		"media/04_final_-_the_chemical_brothers_-_swoon.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
