@@ -1,8 +1,8 @@
 ﻿{
-	"name": "CAT ESCAPE",
-	"short_name": "CAT ESCAPE",
+	"name": "R17",
+	"short_name": "R17",
 	"start_url": "index.html",
-	"display": "fullscreen",
+	"display": "standalone",
 	"orientation": "any",
 	"icons": [{
 		"src": "icon-16.png",

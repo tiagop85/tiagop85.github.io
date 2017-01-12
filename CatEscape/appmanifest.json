@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Launcher",
-	"short_name": "Launcher",
+	"name": "CatEscape",
+	"short_name": "CatEscape",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
