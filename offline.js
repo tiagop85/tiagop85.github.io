@@ -1,11 +1,12 @@
 ﻿{
-	"version": 1484196425,
+	"version": 1484263619,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"images/catescape-sheet0.png",
 		"images/flappynyan-sheet0.png",
+		"images/r17-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
