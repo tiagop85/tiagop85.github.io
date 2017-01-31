@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1485803979
+#1485880517
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -7,11 +7,20 @@ offlineClient.js
 images/spandaime-sheet0.png
 images/tiledbackground.png
 images/sptamboresq-sheet0.png
+images/sptamboresq-sheet1.png
 images/sptempstart-sheet0.png
 images/spjogador-sheet0.png
 images/sp-sheet0.png
 images/sp-sheet1.png
 images/sp-sheet2.png
+images/spfogo-sheet0.png
+images/spfogo-sheet1.png
+images/spbordainferior-sheet0.png
+images/spbordainferior-sheet1.png
+images/splimiteinferior-sheet0.png
+images/sprite2-sheet0.png
+images/spchao-sheet0.png
+images/splimiteinferiormax-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
