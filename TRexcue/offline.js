@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1485982465,
+	"version": 1485985003,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,9 +23,10 @@
 		"images/btvoltar-sheet0.png",
 		"images/spderrota-sheet0.png",
 		"images/sppiramide-sheet0.png",
-		"images/spfundo-sheet0.png",
+		"images/spfundo1-sheet0.png",
 		"images/spvitoria-sheet0.png",
 		"images/spsuba-sheet0.png",
+		"images/spfundo2-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
