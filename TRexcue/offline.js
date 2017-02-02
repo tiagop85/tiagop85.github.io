@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1485985003,
+	"version": 1486047683,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,6 +27,8 @@
 		"images/spvitoria-sheet0.png",
 		"images/spsuba-sheet0.png",
 		"images/spfundo2-sheet0.png",
+		"media/carrapicho-tic_tic_tac-x3yjfj.ogg",
+		"media/untitled_rhythm.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
