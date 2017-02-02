@@ -1,16 +1,19 @@
 ﻿CACHE MANIFEST
-#1486048819
+#1486064107
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 offlineClient.js
 images/spandaime-sheet0.png
+images/spandaime-sheet1.png
 images/tbguia.png
 images/sptamboresq-sheet0.png
 images/sptamboresq-sheet1.png
 images/spstart-sheet0.png
 images/spjogador-sheet0.png
 images/spjogador-sheet1.png
+images/spjogador-sheet2.png
+images/sptambordir-sheet0.png
 images/spobjetocodigo-sheet0.png
 images/spfogo-sheet0.png
 images/spfogo-sheet1.png
@@ -27,7 +30,8 @@ images/spvitoria-sheet0.png
 images/spsuba-sheet0.png
 images/spfundo2-sheet0.png
 media/carrapicho-tic_tic_tac-x3yjfj.ogg
-media/untitled_rhythm.ogg
+media/jogo%20-%20kevin%20macleod%20-%20allada.ogg
+media/menu%20-%20kevin%20macleod%20-%20zanzibar.ogg
 icon-16.png
 icon-32.png
 icon-114.png
