@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1486064107,
+	"version": 1486140224,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,10 +10,7 @@
 		"images/tbguia.png",
 		"images/sptamboresq-sheet0.png",
 		"images/sptamboresq-sheet1.png",
-		"images/spstart-sheet0.png",
 		"images/spjogador-sheet0.png",
-		"images/spjogador-sheet1.png",
-		"images/spjogador-sheet2.png",
 		"images/sptambordir-sheet0.png",
 		"images/spobjetocodigo-sheet0.png",
 		"images/spfogo-sheet0.png",
@@ -30,6 +27,8 @@
 		"images/spvitoria-sheet0.png",
 		"images/spsuba-sheet0.png",
 		"images/spfundo2-sheet0.png",
+		"images/spnuvens-sheet0.png",
+		"images/spplataforma-sheet0.png",
 		"media/carrapicho-tic_tic_tac-x3yjfj.ogg",
 		"media/jogo - kevin macleod - allada.ogg",
 		"media/menu - kevin macleod - zanzibar.ogg",
