@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1486140224,
+	"version": 1486142549,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,6 +11,7 @@
 		"images/sptamboresq-sheet0.png",
 		"images/sptamboresq-sheet1.png",
 		"images/spjogador-sheet0.png",
+		"images/spjogador-sheet1.png",
 		"images/sptambordir-sheet0.png",
 		"images/spobjetocodigo-sheet0.png",
 		"images/spfogo-sheet0.png",
@@ -29,6 +30,7 @@
 		"images/spfundo2-sheet0.png",
 		"images/spnuvens-sheet0.png",
 		"images/spplataforma-sheet0.png",
+		"images/tiledbackground.png",
 		"media/carrapicho-tic_tic_tac-x3yjfj.ogg",
 		"media/jogo - kevin macleod - allada.ogg",
 		"media/menu - kevin macleod - zanzibar.ogg",
