@@ -20,7 +20,9 @@
 
 
 
+
 </style><script role="script" id="twine-user-script" type="text/twine-javascript">
+
 
 </script><tw-passagedata pid="1" name="Menu" tags="" position="23,144">&lt;img src=&quot;lementis.jpg&quot;&gt;
 
@@ -310,11 +312,11 @@ Tenho que atender. Pode ser uma nova missão secreta.&quot; (link: &quot;seguir 
 {(if: $PassoConversa &lt; 4)[(link: &quot;Prossiga...&quot;)[(goto: &quot;EncontroL&quot;)]
 ]
 (else:)[(link: &quot;Ok. Irei resgatar o Livro da Verdade.&quot;)[(set: $PassoConversa to 1)(goto: &quot;LivroDaVerdade&quot;)]]}</tw-passagedata><tw-passagedata pid="17" name="LivroDaVerdade" tags="" position="100,669">Cheguei no Grande Arquivo.
-Agora devo ir aos Salão onde está o Grande Livro
-Mas antes....não posso esquecer de desligar o Sistema de Segurança!
-Droga...eu não tô conseguindo...
-[[Vou criar um curto aqui...-&gt;LivroDaVerdade1]]
-</tw-passagedata><tw-passagedata pid="18" name="FimQuepesNegros" tags="" position="548,948">(color:yellow)[- Lucius! Você trouxe o Grande Livro da Verdade?]
+Agora devo ir ao Salão onde está o Grande Livro...
+Ali está!
+Agora é só entrar e.... ops... O ALARME FOI ACIONADO!
+[[Tentar criar um curto no sistema de alarme...-&gt;LivroDaVerdade1]]
+[[Tentar se esconder e esperar a patrulha sair da sala...-&gt;LivroDaVerdade2]]</tw-passagedata><tw-passagedata pid="18" name="FimQuepesNegros" tags="" position="548,948">(color:yellow)[- Lucius! Você trouxe o Grande Livro da Verdade?]
 (color:white)[- Não... O livro deve ser mesmo apenas um mito...]
 (color:yellow)[- Que decepção... nossa última esperança era... você...]
 (color:white)[- Me desculpe. Agora devo ir Sr Antares.]
@@ -364,12 +366,13 @@ Hmmm... não me parece obra dos Lementis...
 Mas enfim, quem se importa com isso a essa altura do campeonato?
 
 (link: &quot;&gt; Continuar rumo ao trabalho!&quot;)[(goto: &quot;IntroTrabalho&quot;)]</tw-passagedata><tw-passagedata pid="25" name="LivroDaVerdade1" tags="" position="249,666">ouch...consegui!
-Oh não, tem alguem vindo!
-[[Pegar o livro e correr!!!-&gt;LivroDaVerdade2]]</tw-passagedata><tw-passagedata pid="26" name="LivroDaVerdade2" tags="" position="396,666">Ufa... enfim... tô com esse maldito Livro que tanto querem.
+Oh não, está na hora da troca de patrulha...
+Eles não devem demorar a chegar!
+[[Pegar o livro e correr!!!-&gt;LivroDaVerdadeF]]</tw-passagedata><tw-passagedata pid="26" name="LivroDaVerdadeF" tags="" position="396,666">Ufa... enfim... tô com esse maldito Livro que tantas pessoas querem.
 Mas pera... o que será que eu devo fazer?
 
-[[Devo ler o Livro antes e decidir o que fazer-&gt;DecidirFim]]
 [[Devo entregar o Livro para os Quepes Negros-&gt;FimQuepesNegros]]
+[[Devo ler o Livro antes e decidir o que fazer-&gt;DecidirFim]]
 [[Devo entregar o Livro para os Lementis -&gt;FimLementis]]</tw-passagedata><tw-passagedata pid="27" name="FimLementis1" tags="" position="196,1112">(color:yellow)[- Olá Lucius!]
 (color:white)[- Oi Lucy... quem diria, você... todo esse tempo... uma Lementis haha]
 (color:yellow)[- Chega de conversa. Vamos.]
@@ -380,31 +383,37 @@ Mas pera... o que será que eu devo fazer?
 (color:red)[Aqui está Nadja Kreis.]
 (color:white)[- Nadja??? Quem na verdade são todos vocês??]
 (color:red)[Bom fazer negócios com você mais uma vez Nadja. Agora vamos dar ao Lucio o fim que ele merece!]
-[[- Nãaaaaaaaaaaaaaaaaaaao!!!-&gt;Fim]]</tw-passagedata><tw-passagedata pid="30" name="Fim" tags="" position="362,1703">&lt;img src=&quot;the_end.jpg&quot;&gt;</tw-passagedata><tw-passagedata pid="31" name="FimQuepesNegros1" tags="" position="547,1092.5">(color:yellow)[- HAHAHA você definitivamente merece uma promoção 1UC1U3!]
+[[- Nãaaaaaaaaaaaaaaaaaaao!!!-&gt;Fim]]</tw-passagedata><tw-passagedata pid="30" name="Fim" tags="" position="362,1703">&lt;img src=&quot;the_end.jpg&quot;&gt;</tw-passagedata><tw-passagedata pid="31" name="FimQuepesNegros1" tags="" position="547,1092">(color:yellow)[- HAHAHA você definitivamente merece uma promoção 1UC1U3!]
 (color:white)[- Não fiz nada além de minha obrigação, Supremo Acht Null.]
 (color:yellow)[- Agora vamos destruir esse livro. Me ajude aqui.]
 (color:white)[- Prontamente.]
-[[Queimar o Grande Livro da Verdade-&gt;FimQuepesNegros2]]</tw-passagedata><tw-passagedata pid="32" name="FimQuepesNegros2" tags="" position="549,1219.5">algum tempo depois...
+[[Queimar o Grande Livro da Verdade-&gt;FimQuepesNegros2]]</tw-passagedata><tw-passagedata pid="32" name="FimQuepesNegros2" tags="" position="549,1219">algum tempo depois...
 
 - Uma carta!
 - Seria minha promoção no Ministério?
-[[Abrir a carta-&gt;FimQuepesNegros3]]</tw-passagedata><tw-passagedata pid="33" name="FimQuepesNegros3" tags="" position="555,1338.5">&quot;Olá Lucius... É realmente uma pena que você tenha traído quem te revelou toda a verdade sobre tudo o que você conhece! Esperamos que você goste da sua recompensa final...&quot;
+[[Abrir a carta-&gt;FimQuepesNegros3]]</tw-passagedata><tw-passagedata pid="33" name="FimQuepesNegros3" tags="" position="555,1338">&quot;Olá Lucius... É realmente uma pena que você tenha traído quem te revelou toda a verdade sobre tudo o que você conhece! Esperamos que você goste da sua recompensa final...&quot;
 
 
 
 - Uma estrela negra?
-[[- Ohh Nãaaaaaaaaaaaaaaao!!!-&gt;Fim]]</tw-passagedata><tw-passagedata pid="34" name="FimProprio1" tags="" position="375,1127.5">Tudo pronto...
+[[- Ohh Nãaaaaaaaaaaaaaaao!!!-&gt;Fim]]</tw-passagedata><tw-passagedata pid="34" name="FimProprio1" tags="" position="375,1127">Tudo pronto...
 Ao chegar na hora programada, o Edificio Sombra irá se reduzir a cinzas ...
 
-[[Aguardar o desfecho...-&gt;FimProprio2]]</tw-passagedata><tw-passagedata pid="35" name="FimProprio2" tags="" position="375,1252.5">- Horario: ok!
+[[Aguardar o desfecho...-&gt;FimProprio2]]</tw-passagedata><tw-passagedata pid="35" name="FimProprio2" tags="" position="375,1252">- Horario: ok!
 - Explosivos armados: ok!
 - Líderes no local: ok!
 
- [[Detonar o Edificio Sombra-&gt;FimProprio3]]</tw-passagedata><tw-passagedata pid="36" name="FimProprio3" tags="" position="373,1386.5">Algumas horas depois...
+ [[Detonar o Edificio Sombra-&gt;FimProprio3]]</tw-passagedata><tw-passagedata pid="36" name="FimProprio3" tags="" position="373,1386">Algumas horas depois...
 
 Consegui explodir o local, mas apesar de deixar varios mortos e feridos de ambos os lados, não consegui atingir meu objetivo: matar os líderes de cada facção.
- [[Fugir do local-&gt;FimProprio4]]</tw-passagedata><tw-passagedata pid="37" name="FimProprio4" tags="" position="369,1508.5">Não pense que foi um total fracasso: consegui atrair simpatizantes e, com o conhecimento adquirido no Grande Livro da Verdade, posso criar uma nova facção independente, que ataca tanto Quepes Negros como Lementis para buscar as mais variadas recompensas... 
- [[Criar uma nova organização: A SEELE-&gt;Fim]]</tw-passagedata></tw-storydata>
+ [[Fugir do local-&gt;FimProprio4]]</tw-passagedata><tw-passagedata pid="37" name="FimProprio4" tags="" position="369,1508">Não pense que foi um total fracasso: consegui atrair simpatizantes e, com o conhecimento adquirido no Grande Livro da Verdade, posso criar uma nova facção independente, que ataca tanto Quepes Negros como Lementis para buscar as mais variadas recompensas... 
+ [[Criar uma nova organização: A SEELE-&gt;Fim]]</tw-passagedata><tw-passagedata pid="38" name="LivroDaVerdade2" tags="" position="252,541">(color:white)[Devo apenas aguardar....]
+
+(color:yellow)[- Esse alarme dando problema novamente? Não aguento mais isso! vou desligar o sistema e que se dane!]
+
+(color:white)[haha que sorte a minha!]
+
+[[Pegar o livro e sair da sala-&gt;LivroDaVerdadeF]]</tw-passagedata></tw-storydata>
 
 <script title="Twine engine code" data-main="harlowe">"use strict";function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}var _slicedToArray=function(){function e(e,t){var n=[],r=!0,i=!1,o=void 0;try{for(var a,s=e[Symbol.iterator]();!(r=(a=s.next()).done)&&(n.push(a.value),!t||n.length!==t);r=!0);}catch(e){i=!0,o=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw o}}return n}return function(t,n){if(Array.isArray(t))return t;if(Symbol.iterator in Object(t))return e(t,n);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};!function(){/**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
