@@ -19047,4 +19047,3 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.TextBox.prototype.cnds.CompareText,
 	cr.plugins_.Sprite.prototype.cnds.CompareX
 ];};
-
